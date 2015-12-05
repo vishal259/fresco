@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fresco | An image management library.
+title: Vishal | An image management library.
 id: home
 hero: true
 ---
